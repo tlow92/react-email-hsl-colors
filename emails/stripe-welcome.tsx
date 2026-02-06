@@ -132,7 +132,7 @@ const anchor = {
 };
 
 const button = {
-  backgroundColor: '#656ee8',
+  backgroundColor: "hsl(210, 100%, 80%)",
   borderRadius: '5px',
   color: '#fff',
   fontSize: '16px',
